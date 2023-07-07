@@ -1,3 +1,16 @@
+# magic admin in Nuxt
+
+
+
+Dependencies
+```shell
+    "@types/node": "^18",
+    "nuxt": "3.6.2"
+    "@magic-sdk/admin": "^1.10.0"
+```
+
+`node@18.16.0`
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
